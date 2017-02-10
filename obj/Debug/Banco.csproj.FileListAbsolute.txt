@@ -1,0 +1,6 @@
+C:\Users\cl1395\Desktop\Caelum\Banco\bin\Debug\Banco.exe.config
+C:\Users\cl1395\Desktop\Caelum\Banco\bin\Debug\Banco.exe
+C:\Users\cl1395\Desktop\Caelum\Banco\bin\Debug\Banco.pdb
+C:\Users\cl1395\Desktop\Caelum\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\cl1395\Desktop\Caelum\Banco\obj\Debug\Banco.exe
+C:\Users\cl1395\Desktop\Caelum\Banco\obj\Debug\Banco.pdb
